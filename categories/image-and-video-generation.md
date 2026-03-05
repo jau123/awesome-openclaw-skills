@@ -49,6 +49,7 @@
 - [comfy-cli](https://github.com/openclaw/skills/tree/main/skills/johntheyoung/comfy-cli/SKILL.md) - Install, manage, and run ComfyUI instances.
 - [comfyui](https://github.com/openclaw/skills/tree/main/skills/xtopher86/comfyui-request/SKILL.md) - Send a workflow request to ComfyUI and return image results.
 - [comfyui-imagegen](https://github.com/openclaw/skills/tree/main/skills/halr9000/comfyui-imagegen/SKILL.md) - Generate images via ComfyUI API (localhost:8188) using Flux2 workflow.
+- [creative-toolkit](https://github.com/openclaw/skills/tree/main/skills/jau123/creative-toolkit/SKILL.md) - Multi-provider AI image generation via MeiGen, OpenAI, and ComfyUI.
 - [cubistic-bot-runner](https://github.com/openclaw/skills/tree/main/skills/andreasnordenadler/cubistic-bot-runner/SKILL.md) - Run a polite Cubistic painter bot (public participation) using the Cubistic HTTP API (PoW challenge + /act).
 - [cybercentry-private-data-verification](https://github.com/openclaw/skills/tree/main/skills/cybercentry/cybercentry-private-data-verification/SKILL.md) - Cybercentry Private Data Verification on ACP - Real-time Zero-Knowledge Proof generation and text integrity.
 - [data-viz](https://github.com/openclaw/skills/tree/main/skills/ianalloway/data-viz/SKILL.md) - Create data visualizations from the command line.
